@@ -8,4 +8,4 @@ git init
 git clone [url]
 ###STAGE AND SNAPSHOT COMMANDS FOR GIT##
 git status
-
+git add [file]
