@@ -6,3 +6,6 @@ git config --global color.ui auto
 ###SETUP AND INIT COMMANDS FOR GIT##
 git init
 git clone [url]
+###STAGE AND SNAPSHOT COMMANDS FOR GIT##
+git status
+
