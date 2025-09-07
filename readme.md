@@ -9,6 +9,8 @@ git clone [url] #retrieve an entire repository from a hosted location via URL#
 ###STAGE AND SNAPSHOT COMMANDS FOR GIT##
 git status #show modified files in working directory, staged for your next commit#
 git add [file] #add a file as it looks now to your next commit (stage)#
-###COMMANDS FOR LINUX##
+###SHORTCUT COMMANDS FOR LINUX##
 Ctrl + C #Kills Processess running in terminal#
+###USER and GROUP COMMANDS FOR LINUX###
 who #Display who is currently logged into the system#
+last #Shows the last system logins#
