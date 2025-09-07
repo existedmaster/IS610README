@@ -1,1 +1,4 @@
 THIS IS A README
+##SETUP COMMANDS##
+git config --global user.name “[firstname lastname]”
+
