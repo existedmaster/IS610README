@@ -18,4 +18,5 @@ last #Shows the last system logins#
 mkdir [directory name] ##Creates a new directory##
 cat [file name] ##Shows the content of a file##
 head [file name] #Shows the first ten lines of a file##
-tail [file name] shows the last ten lines of a file##
+tail [file name] #shows the last ten lines of a file##
+rm [file name] #removes a file#
