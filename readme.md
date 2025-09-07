@@ -11,3 +11,4 @@ git status #show modified files in working directory, staged for your next commi
 git add [file] #add a file as it looks now to your next commit (stage)#
 ###COMMANDS FOR LINUX##
 Ctrl + C #Kills Processess running in terminal#
+who #Display who is currently logged into the system#
