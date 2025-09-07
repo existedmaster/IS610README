@@ -16,3 +16,4 @@ who #Display who is currently logged into the system#
 last #Shows the last system logins#
 ###FILE TYPE COMMANDS##
 mkdir [directory name] ##Creates a new directory##
+cat [file name] ##Shows the content of a file##
