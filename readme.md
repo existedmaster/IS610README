@@ -5,3 +5,4 @@ git config --global user.email “[valid-email]”
 git config --global color.ui auto
 ###SETUP AND INIT COMMANDS FOR GIT##
 git init
+git clone [url]
